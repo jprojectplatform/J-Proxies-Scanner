@@ -1,10 +1,6 @@
 ```markdown
 # J Proxies Scanner
 
-![Version](https://img.shields.io/badge/version-1.0%20Pro-blue)
-![Python](https://img.shields.io/badge/Python-3.x-yellow)
-![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20Kali-red)
-
 **J Proxies Scanner** is a professional, advanced GUI tool designed for security researchers and penetration testers. It uses multi-threading to rapidly scan, verify, and filter SOCKS4, SOCKS5, and HTTP proxies from large lists.
 
 The tool automatically exports working proxies in a format directly compatible with `proxychains4.conf`, streamlining your anonymity workflow.
